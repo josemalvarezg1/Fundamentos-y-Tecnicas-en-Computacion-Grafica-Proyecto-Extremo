@@ -14,17 +14,25 @@
 # Modelos
 
 Desde el menú de AntTweakBar se puede seleccionar el modelo a desplegar. Entre ellos se tienen:
+
 	- Engine (8 bits) que representa a un motor.
+		
 	- Head (8 bits) que representa a una cabeza humana.
+	
 	- Torso (8 bits) que representa a una torso humano.
+	
 	- Walnut (16 bits) que representa a una nuez.
 
 # Transformaciones afines
 
 A cualquier modelo cargado se le puede aplicar libremente transformaciones afines:
+
 	- La rotación puede ser realizada manteniendo el click derecho del ratón y moviendo el modelo.
+	
 	- La traslación puede ser realizada manteniendo el click izquierdo del ratón y moviendo el modelo. Si se desea trasladar el modelo en el eje Z, se debe realizar el mismo procedimiento manteniendo presionada la tecla 'Z'.
+	
 	- El escalamiento se puede ajustar con la rueda del ratón.
+	
 	- Se puede acercar y alejar la cámara con las teclas 'W' y 'S' respectivamente.
 
 # Métodos de despliegue
