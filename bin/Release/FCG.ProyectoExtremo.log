@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Program Files\Windows Kits\8.1\Include\shared\minwindef.h(130): warning C4005: 'APIENTRY': redefinición de macro
+  C:\Users\José Manuel\documents\visual studio 2015\Projects\FCG.ProyectoExtremo\include\GLFW/glfw3.h(98): note: vea la definición anterior de 'APIENTRY'
+Main.cpp(237): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+  1 of 755 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+  Generación de código finalizada
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  FCG.ProyectoExtremo.vcxproj -> C:\Users\José Manuel\documents\visual studio 2015\Projects\FCG.ProyectoExtremo\Release\FCG.ProyectoExtremo.exe
+  FCG.ProyectoExtremo.vcxproj -> C:\Users\José Manuel\documents\visual studio 2015\Projects\FCG.ProyectoExtremo\Release\FCG.ProyectoExtremo.pdb (Full PDB)
